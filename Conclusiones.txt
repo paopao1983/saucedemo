@@ -1,0 +1,20 @@
+Conclusiones del Ejercicio realizado.
+
+1. Para la solución implementé el patron POM Page Object Model.
+- Las paginas se encuentran en support>pages y support>pages>components
+- Dentro de components he agrupado aquellas paginas que considero pueden funcionar como componentes, 
+en este caso las páginas de checkout, las cuales son 3 dentro del flujo y para tener gobierdo de ellas
+en un mismo page, decidí crearlas como componentes y utilizarlas en una sola page llamada checkout.
+
+2. Cuando inicié la implementación de esta solución me enfrenté con un inconveniente al intentar ejecutar
+el proyecto en modo cypress open, es decir utilizando la GUI interactiva de Cypress y apalancar la implementación 
+con su ayuda, el inconveniente radica en que la interactive GUI no identifica si la pagina https://www.saucedemo.com/
+ha terminado de cargar o no, por ende, no pasa de la primera línea de ejecución que es cy.visit("https://www.saucedemo.com/")
+
+3. Dicho lo anterior, el proyecto se ejecuta perfectamente en modo Cypress run el cual lo ejecuta desde el CLI, es decir
+desde la ventana de comandos, cabe resaltar que desde ahí, podríamos elegir ejecutarlo headless(netamente CLI), o 
+headed(desde el explorador por defecto).
+
+4. El proyecto se encuentra en un repositorio de github para facilidad de mantenimiento.
+
+5. De igual manera, el proyecto .zip lo compartiré por drive para facilidad de la revision.
