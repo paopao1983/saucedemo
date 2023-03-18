@@ -7,7 +7,7 @@ Description
 This is a PoC built for a technical test to apply for the QA Assurance job offer
 
 Get started
-- Download the .zip: 
+- Download the .zip: https://drive.google.com/file/d/1lLw5GpYWKMw-HmkY--fA_a1RURDcFh1A/view?usp=sharing 
 - Install dependencies: npm install
 - Install Cypress: npm install cypress --save-dev
 

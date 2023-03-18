@@ -16,5 +16,7 @@ desde la ventana de comandos, cabe resaltar que desde ahí, podríamos elegir ej
 headed(desde el explorador por defecto).
 
 4. El proyecto se encuentra en un repositorio de github para facilidad de mantenimiento.
+https://github.com/paopao1983/saucedemo.git
 
 5. De igual manera, el proyecto .zip lo compartiré por drive para facilidad de la revision.
+https://drive.google.com/file/d/1lLw5GpYWKMw-HmkY--fA_a1RURDcFh1A/view?usp=sharing
